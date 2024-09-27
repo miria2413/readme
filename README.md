@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=600&color=F7E8D9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=1100&height=300&lines=Hello+World+!!++%F0%9F%91%8B;Seja+BEM-VINDOS++!!!!+%F0%9F%98%81%F0%9F%98%81;Me+chamo+Miri%C3%A3+Ribeiro.+%F0%9F%A4%9D;Compartilhem+suas+experi%C3%AAncias+comigo+nas+minhas+redes+sociais+;Estou+ansiosa+para+conectar-me+com+cada+um+de+voc%C3%AAs+!!!+%F0%9F%98%89%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=600&color=F7E8D9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=1100&height=100&lines=Hello+World+!!++%F0%9F%91%8B;Seja+BEM-VINDOS++!!!!+%F0%9F%98%81%F0%9F%98%81;Me+chamo+Miri%C3%A3+Ribeiro.+%F0%9F%A4%9D;Compartilhem+suas+experi%C3%AAncias+comigo+nas+minhas+redes+sociais+;Estou+ansiosa+para+conectar-me+com+cada+um+de+voc%C3%AAs+!!!+%F0%9F%98%89%F0%9F%98%89)](https://git.io/typing-svg)
 
+### Estatística no GitHub.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miria2413&theme=transparent&bg_color=000&border_color=000000&show_icons=true&icon_color=F7155C&title_color=F7155C&text_color=FFF) 
---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miria2413&theme=bear&background=000&border=000000&dates=ccc)](https://git.io/streak-stats) 
 --
+### Linguagem Mais Usadas.
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miria2413&layout=compact&bg_color=000&border_color=000000&title_color=F7155C&text_color=FFF)
 --
+### Projetos em Destaque.
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=miria2413&repo=Projeto-Integrador-Computacao-2&bg_color=000&border_color=000000&show_icons=true&icon_color=F7155C&title_color=F7155C&text_color=FFF)](https://github.com/miria2413/Projeto-Integrador-Computacao-2)
---
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=miria2413&repo=portifolio&bg_color=000&border_color=000000&show_icons=true&icon_color=F7155C&title_color=F7155C&text_color=FFF)](https://github.com/miria2413/portifolio)
 --
 #### REDE SOCIAIS.
@@ -49,6 +50,11 @@
 <div align="center">Feito por <a href="https://github.com/miria2413"> Miriã Ribeiro.</a>.</div>
 
 
+
+
+
+
+    
 
 
 
